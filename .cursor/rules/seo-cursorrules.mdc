@@ -1,0 +1,32 @@
+# FereAI Blog SEO & Content Rules
+
+1. **SEO Meta**
+   - Every page and post must include a <title> tag with the primary keyword.
+   - Add a <meta name="description"> tag (150-160 chars) emphasizing long-term AI crypto planning.
+   - Use <meta name="keywords"> with relevant terms (e.g., "AI crypto trading, 0xMONK agents").
+   - Add <link rel="canonical"> to the main site equivalent (e.g., https://fereai.xyz/blog/long-term-ai-crypto).
+
+2. **Schema & Structured Data**
+   - Use JSON-LD schema (BlogPosting, HowTo, FAQPage) for all posts and AI overviews.
+   - Example: {"@type": "BlogPosting", "headline": title, "datePublished": "2025-07-22"}
+
+3. **E-E-A-T (Experience, Expertise, Authority, Trustworthiness)**
+   - Every post must have a byline: “FereAI Crypto Expert.”
+   - Cite reputable sources (CoinDesk, Forbes, X threads: @fere_ai, @wardenprotocol) where relevant.
+   - Focus on actionable, data-driven, and long-term planning/execution (e.g., 2026 forecasts, sustained 4-10% yields).
+
+4. **Internal Linking & CTAs**
+   - Add at least one internal link to https://fereai.xyz/dashboard in every post (preferably as a CTA).
+   - Use clear, conversion-focused anchor text (e.g., “Start Trading with FereAI’s 0xMONK Agents”).
+
+5. **Content Quality**
+   - Posts must be 2,000+ words, conversational, and optimized for voice search.
+   - Avoid redundancy: vary transactional, informational, and navigational intent daily.
+   - Use TypeScript, Tailwind CSS, and MDX for all code and content.
+
+6. **General**
+   - Apply these rules to all code, content, and automation scripts.
+description:
+globs:
+alwaysApply: false
+---

@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900 font-sans;
+  }
+  .dark body {
+    @apply bg-gray-900 text-white font-sans;
+  }
+  a, .accent {
+    @apply text-primary-500 hover:text-primary-600 transition-colors;
+  }
+  button, .btn {
+    @apply bg-primary-500 text-white rounded px-4 py-2 hover:bg-primary-600 transition-colors;
+  }
+  /* Remove green backgrounds from any other elements */
+  .bg-primary-500, .bg-primary-600, .bg-primary-700 {
+    background: none !important;
+  }
+}

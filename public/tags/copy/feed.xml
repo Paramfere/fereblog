@@ -1,0 +1,14 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>FereAI Crypto Blog</title>
+      <link>https://blog.fereai.xyz/blog</link>
+      <description>Automated blog for FereAI’s long-term AI crypto trading strategies and 0xMONK agents.</description>
+      <language>en-us</language>
+      <managingEditor>info@fereai.xyz (FereAI Crypto Expert)</managingEditor>
+      <webMaster>info@fereai.xyz (FereAI Crypto Expert)</webMaster>
+      <lastBuildDate>Tue, 22 Jul 2025 23:27:13 GMT</lastBuildDate>
+      <atom:link href="https://blog.fereai.xyz/tags/copy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    </channel>
+  </rss>

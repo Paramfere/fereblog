@@ -1,0 +1,33 @@
+{
+  "name": "FereAI Crypto Expert",
+  "avatar": "/static/images/logo.png",
+  "occupation": "AI Crypto Trading Specialist",
+  "company": "FereAI.xyz",
+  "email": "info@fereai.xyz",
+  "twitter": "https://x.com/fere_ai",
+  "linkedin": "https://www.linkedin.com/company/fereai",
+  "github": "https://github.com/fereai",
+  "body": {
+    "raw": "\nFereAI Crypto Expert is a leading authority on long-term AI-driven crypto trading and DeFi execution. Specializing in sustainable yield strategies, multi-chain automation, and 0xMONK agent deployment, FereAI delivers actionable insights and advanced analytics for the next generation of digital asset investors.\n",
+    "code": "var Component=(()=>{var m=Object.create;var a=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),h=(t,e)=>{for(var n in e)a(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!y.call(t,i)&&i!==n&&a(t,i,{get:()=>e[i],enumerable:!(r=g(e,i))||r.enumerable});return t};var A=(t,e,n)=>(n=t!=null?m(x(t)):{},c(e||!t||!t.__esModule?a(n,\"default\",{value:t,enumerable:!0}):n,t)),I=t=>c(a({},\"__esModule\",{value:!0}),t);var p=f((C,s)=>{s.exports=_jsx_runtime});var v={};h(v,{default:()=>l,frontmatter:()=>_});var o=A(p()),_={name:\"FereAI Crypto Expert\",avatar:\"/static/images/logo.png\",occupation:\"AI Crypto Trading Specialist\",company:\"FereAI.xyz\",email:\"info@fereai.xyz\",twitter:\"https://x.com/fere_ai\",linkedin:\"https://www.linkedin.com/company/fereai\",github:\"https://github.com/fereai\"};function d(t){let e={p:\"p\",...t.components};return(0,o.jsx)(e.p,{children:\"FereAI Crypto Expert is a leading authority on long-term AI-driven crypto trading and DeFi execution. Specializing in sustainable yield strategies, multi-chain automation, and 0xMONK agent deployment, FereAI delivers actionable insights and advanced analytics for the next generation of digital asset investors.\"})}function l(t={}){let{wrapper:e}=t.components||{};return e?(0,o.jsx)(e,{...t,children:(0,o.jsx)(d,{...t})}):d(t)}return I(v);})();\n;return Component;"
+  },
+  "_id": "authors/fereai.mdx",
+  "_raw": {
+    "sourceFilePath": "authors/fereai.mdx",
+    "sourceFileName": "fereai.mdx",
+    "sourceFileDir": "authors",
+    "contentType": "mdx",
+    "flattenedPath": "authors/fereai"
+  },
+  "type": "Authors",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.205,
+    "time": 12300,
+    "words": 41
+  },
+  "slug": "fereai",
+  "path": "authors/fereai",
+  "filePath": "authors/fereai.mdx",
+  "toc": []
+}
